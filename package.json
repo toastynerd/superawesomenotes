@@ -1,0 +1,19 @@
+{
+  "name": "sea-b20-hello-node",
+  "version": "0.0.0",
+  "description": "hello world in the node ecosystem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/toastynerd/sea-b20-hello-node"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toastynerd/sea-b20-hello-node/issues"
+  },
+  "homepage": "https://github.com/toastynerd/sea-b20-hello-node"
+}
